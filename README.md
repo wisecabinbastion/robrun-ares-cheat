@@ -102,7 +102,6 @@ Go to [Releases](../../releases), open the latest version and download `robrun-w
 1. **Download the latest trainer version open Releases and download zip archive
 2. Extract the archive
 3. Run **robrun.exe** as Administrator
-4. 7 days key: ROBRH-RKB02-OR642M
 5. Click **Launch**
 
 
