@@ -8,9 +8,9 @@
 
 ## Download
 
-> **Important:** Download only `robrun-windows-x64/84.zip` from the latest release.
+> **Important:** Download only `robrun-windows.zip` from the latest release.
 
-Go to [Releases](../../releases), open the latest version and download `robrun-windows-x64/84.zip` from the **Assets** section.
+Go to [Releases](../../releases), open the latest version and download `robrun-windows.zip` from the **Assets** section.
 <div align="center">
 <a href="../../releases">
   <img src="https://img.shields.io/badge/⬇_DOWNLOAD_ZIP-22C55E?style=for-the-badge&logo=github&logoColor=white" alt="Download ZIP">
