@@ -15,6 +15,7 @@ Go to [Releases](../../releases), open the latest version and download `robrun-w
 <a href="../../releases">
   <img src="https://img.shields.io/badge/⬇_DOWNLOAD_ZIP-22C55E?style=for-the-badge&logo=github&logoColor=white" alt="Download ZIP">
 </a>
+ <p>Password: Robrun2026</p>
 </div>
 
 ---
